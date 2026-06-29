@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=discord,py,html,css,js,vscode,windows,apple&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=discord,html,css,js,py,vscode,windows,apple&perline=4"/>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1210walnut&show_icons=true&theme=dracula)
