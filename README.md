@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm walnut.Please call me walnut or *kurumi*.
+I'm walnut.Please call me WALNUT or *KURUMI*.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=discord,html,css,js,py,vscode,windows,apple&perline=4"/>
 </p>
